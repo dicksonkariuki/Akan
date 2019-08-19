@@ -14,8 +14,6 @@
 
 ### Author
 
----
-
 #### Dickson Kariuki.
 
 ---
