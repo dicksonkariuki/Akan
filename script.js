@@ -30,7 +30,7 @@ function validateform() {
     if (!isNaN(day)) {
       if (day <= 0 || day > 31) {
         alert("day is invalid");
-      } 
+      }
     } else {
       alert("Number required");
     }
@@ -41,7 +41,7 @@ function validateform() {
     if (!isNaN(month)) {
       if (month <= 0 || month > 12) {
         alert("month is invalid");
-      } 
+      }
     } else {
       alert("Number required");
     }
@@ -52,14 +52,14 @@ function validateform() {
   } else {
     if (isNaN(century)) {
       alert("century is invalid");
-    } 
+    }
   }
   if (year == "" || year == null) {
     alert("year is required");
   } else {
     if (isNaN(year)) {
       alert("year is invalid");
-    } 
+    }
   }
 
   function getGender() {
@@ -72,7 +72,6 @@ function validateform() {
 
   var myGenderValue = getGender();
 
-
   var d = Math.round(
     (century / 4 -
       2 * century -
@@ -82,7 +81,6 @@ function validateform() {
       day) %
       7
   );
-  //alert(d);
 
   var pickedDay;
   if (myGenderValue == "male") {
