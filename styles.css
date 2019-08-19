@@ -60,6 +60,6 @@ p {
   box-sizing: border-box;
   background-color: green;
   width: auto;
-  border-radius: 9px;
+  border-radius: 10px;
   text-align: center;
 }
