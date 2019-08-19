@@ -53,6 +53,4 @@ You can contact the developer through +254726045494.
 
 ### Licence
 
----
-
 The project is licenced under MIT licence.
