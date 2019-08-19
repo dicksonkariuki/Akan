@@ -35,33 +35,19 @@
 
 ### Behavior Driven Development.
 
----
-
----
-
-## | behaviour| input | Output |
-
-## | Page loads| data input| An elert message with users Akan name|
-
----
+| behaviour  | input      | Output                                |
+| ---------- | ---------- | ------------------------------------- |
+| Page loads | data input | An elert message with users Akan name |
 
 ### Technologies Used
-
----
 
 1.HTML to create the webpages.
 2.CSS to style the webpages.
 3.Bootstrap.
 
----
-
 ### Contact information
 
----
-
 You can contact the developer through +254726045494.
-
----
 
 ### Licence
 
