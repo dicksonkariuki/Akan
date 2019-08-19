@@ -18,7 +18,7 @@ h1 {
 body {
   background-color: whitesmoke;
   background-image: url(images/Akan.jpg);
-  background-repeat: no-repeat;
+  background-repeat: repeat;
   background-size: cover;
 }
 .box {
