@@ -1,0 +1,65 @@
+nav {
+  background: darkblue !important;
+  width: 100%;
+  height: 50px;
+}
+
+nav ul li {
+  background-colhttps: ; //github.com/dicksonkariuki/Akan.git white !important;
+}
+
+h1 {
+  color: white;
+  margin-left: 500px;
+}
+.label {
+  color: white;
+}
+body {
+  background-color: whitesmoke;
+  background-image: url(images/Akan.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.box {
+  box-sizing: border-box;
+  background-color: cyan;
+  width: 300px;
+}
+p {
+  color: whitesmoke;
+}
+.dates {
+  text-align: center;
+  margin-bottom: 10px;
+  margin-top: 10px;
+}
+footer {
+  background: darkblue !important;
+  width: 100%;
+  height: 50px;
+}
+.btn {
+  margin-bottom: 5px !important;
+  width: 200px;
+  border-radius: 1px !important;
+}
+p {
+  color: black;
+  font-weight: bold;
+}
+.names {
+  color: white;
+  font-family: sans-serif;
+}
+.label {
+  color: black;
+  font-weight: bold;
+}
+.names {
+  box-sizing: border-box;
+  background-color: green;
+  width: auto;
+  border-radius: 10px;
+  text-align: center;
+}
