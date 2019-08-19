@@ -150,5 +150,4 @@ function validateform() {
         pickedDay = "You picked a wrong day!";
     }
   }
-  //alert(dayOfTheWeek());
 }
